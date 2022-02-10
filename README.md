@@ -23,3 +23,5 @@ Repositorio para tests de algoritmos de encriptación
 - Incluir Chosen Plain Image Attack
 - Incluir la DFA, pero esa estará para MATLAB
 - Pruebas de Sbox
+- Prueba Avalanche
+- Checar la librería de encriptación de Python
